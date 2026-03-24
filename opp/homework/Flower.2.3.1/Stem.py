@@ -1,7 +1,6 @@
 import turtle
 from turtle import penup, goto, setheading, pendown, pensize, color, forward
 
-
 class Stem:
     def __init__(self, height=150, width=5, color="dark green"):
         self._color = color
