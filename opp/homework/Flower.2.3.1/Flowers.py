@@ -35,4 +35,3 @@ if __name__ == '__main__':
         my_flower.draw(0, -200)
 
 mainloop()
-#
