@@ -14,3 +14,4 @@ class Triangle(Figure):
         return (abs(rez)) ** 0.5
 
     def volume(self): return self.square()
+

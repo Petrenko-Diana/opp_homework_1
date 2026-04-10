@@ -10,7 +10,7 @@
                           Cone   15    9 
                         Circle    2 
                TriangularPrism   17    0    7   15 
-                 Parallelogram   23   10    0 
+                 Parallelogram   24   10    0
                        Trapeze    6   15   20    7 
                         Circle    8 
                         Circle   16 

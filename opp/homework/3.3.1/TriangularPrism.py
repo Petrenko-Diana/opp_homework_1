@@ -10,5 +10,5 @@ class TriangularPrism(Triangle):
     def height(self): return self.h_val
 
     def squareBase(self): return super().square()
-    
+
     def volume(self): return self.squareBase() * self.h_val

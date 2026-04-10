@@ -7,5 +7,5 @@ class Ball(Figure):
     def dimension(self): return 3
 
     def squareSurface(self): return 4 * 3.1415 * (self.r ** 2)
-    
+
     def volume(self): return (4/3) * 3.1415 * (self.r ** 3)

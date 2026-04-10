@@ -13,5 +13,6 @@ class Trapeze(Figure):
         if self.a == self.b: return 0
         diff = self.a - self.b
         return ((self.a+self.b)/2) * math.sqrt(abs(self.c**2 - ((diff**2 + self.c**2 - self.d**2)/(2*diff))**2))
-    
+
     def volume(self): return self.square()
+

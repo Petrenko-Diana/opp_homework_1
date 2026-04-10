@@ -12,3 +12,4 @@ class Figure:
     def height(self): return None
 
     def volume(self): return 0
+

@@ -70,3 +70,4 @@ if all_figures:
 
     print(f"Фігура з найбільшою мірою: {type(best).__name__}")
     print(f"Міра (Площа/Об'єм) = {best.volume():.2f}")
+

@@ -10,5 +10,6 @@ class Cone(Circle):
     def height(self): return self.h_val
 
     def squareBase(self): return super().square()
-    
+
     def volume(self): return (1/3) * self.squareBase() * self.h_val
+

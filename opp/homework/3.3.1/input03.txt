@@ -1,5 +1,5 @@
      RectangularParallelepiped   24   11   24 
-                      Triangle   18    5   24 
+                      Triangle   18    5   24
                        Trapeze    0   11   14    1 
      RectangularParallelepiped   10    9   13 
                TriangularPrism   13   24    7   17 
@@ -13,7 +13,7 @@
              TriangularPyramid    6   13 
                TriangularPrism   17   11   20    7 
                TriangularPrism   15   18    6   21 
-                     Rectangle   25   11 
+                     Rectangle   26   11
                        Trapeze    4    5   15   25 
                  Parallelogram   10   17   17 
                           Cone   22   22 
