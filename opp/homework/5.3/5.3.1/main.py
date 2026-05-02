@@ -25,5 +25,6 @@ def main():
                 print(f"Помилка в рядку {line_num}: {e}")
 
 
+
 if __name__ == "__main__":
     main()

@@ -15,3 +15,4 @@ def evaluate_rational_expression(expression):
     final_expr = " ".join(processed_parts)
     return eval(final_expr)
 
+
