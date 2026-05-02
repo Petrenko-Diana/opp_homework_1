@@ -22,7 +22,6 @@ def run_task(filename):
     print(f"Сума (дріб): {total}")
     print(f"Сума (десяткова): {total():.4f}")
 
-
 if __name__ == "__main__":
     files = ["input01.txt", "input02.txt", "input03.txt"]
     for f in files:

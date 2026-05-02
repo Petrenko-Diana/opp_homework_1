@@ -1,7 +1,6 @@
 from prep import evaluate_rational_expression
 import os
 
-
 def main():
     input_file = 'input.txt'
 
