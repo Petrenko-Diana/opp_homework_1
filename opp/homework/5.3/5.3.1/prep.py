@@ -1,3 +1,5 @@
+from Rational import Rational
+
 def evaluate_rational_expression(expression):
     for op in ['+', '-', '*', '/']:
         expression = expression.replace(op, f' {op} ')

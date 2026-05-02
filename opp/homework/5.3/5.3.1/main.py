@@ -1,3 +1,5 @@
+from Rational import Rational
+
 from prep import evaluate_rational_expression
 import os
 
