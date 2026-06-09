@@ -29,3 +29,4 @@ if __name__ == '__main__':
     print(f"а):       {res_a:.6f}")
     print(f"б):       {res_b:.6f}")
     print(f"Точне значення:    {exact:.6f}")
+

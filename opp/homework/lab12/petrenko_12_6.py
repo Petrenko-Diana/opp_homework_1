@@ -36,3 +36,4 @@ if __name__ == '__main__':
     a = 100
     val, idx = find_max_sequence_member(a)
     print(f"Для a={a}: найбільший член x_{idx} = {val}")
+

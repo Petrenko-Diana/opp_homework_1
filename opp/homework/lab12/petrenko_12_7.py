@@ -97,3 +97,4 @@ if __name__ == '__main__':
     print(f"d) 1/(1+{x})^3:\tРяд: {calc_inv_1x_3(x, eps):.6f}\tMath: {1/((1+x)**3):.6f}")
     print(f"e) sqrt(1+{x}):\tРяд: {calc_sqrt_1x(x, eps):.6f}\tMath: {math.sqrt(1+x):.6f}")
     print(f"f) arcsin({x}):\tРяд: {calc_arcsinx(x, eps):.6f}\tMath: {math.asin(x):.6f}")
+

@@ -15,3 +15,4 @@ def max_fibonacci_less_than_a(a):
 if __name__ == '__main__':
     a = 50
     print(f"Найбільше число Фібоначчі <= {a}: {max_fibonacci_less_than_a(a)}")
+

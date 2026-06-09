@@ -31,3 +31,4 @@ if __name__ == '__main__':
 
     print(f"Результат суми ряду:  {series_res:.7f}")
     print(f"Аналітичне значення: {exact_res:.7f}")
+
